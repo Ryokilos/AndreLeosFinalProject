@@ -920,8 +920,7 @@ int main(int argc, char *argv[])
 	puts("Game Over");
 	return EXIT_SUCCESS;
 }
-
-
+}
 
 
 
